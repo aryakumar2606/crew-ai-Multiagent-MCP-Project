@@ -1,0 +1,17 @@
+streamlit
+crewai
+crewai-tools
+python.dotenv
+requests
+pyyaml
+pandas
+polars
+duckdb
+sqlglot
+sqlparse
+scikit-learn
+matplotlib
+plotly
+great-expectations
+pandera
+mcp
